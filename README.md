@@ -24,8 +24,6 @@ An interactive dashboard was created using **Pivot Tables, Pivot Charts, and Exc
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
-
 ![Dashboard](dashboard.png)
 
 ---
